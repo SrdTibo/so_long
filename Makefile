@@ -37,3 +37,5 @@ re :		fclean all
 # curl -fsSL https://rawgit.com/kube/42homebrew/master/install.sh | zsh
 # brew update
 # brew install glfw
+# make MLX42-C
+# make
